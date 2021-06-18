@@ -1,5 +1,5 @@
 ## Note 
-Language: c#
+Language: C#
 GUI Windows Forms
  
 ## Description
